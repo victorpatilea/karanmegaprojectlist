@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karan.Numbers", "Karan.Numbers\Karan.Numbers.csproj", "{AFC7C72C-7B2E-42A3-B543-05255BE5546F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karan.Tests", "Karan.Tests\Karan.Tests.csproj", "{01A0898D-1B5A-44C3-8D3B-E44D463BACD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC7C72C-7B2E-42A3-B543-05255BE5546F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC7C72C-7B2E-42A3-B543-05255BE5546F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC7C72C-7B2E-42A3-B543-05255BE5546F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC7C72C-7B2E-42A3-B543-05255BE5546F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A0898D-1B5A-44C3-8D3B-E44D463BACD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A0898D-1B5A-44C3-8D3B-E44D463BACD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A0898D-1B5A-44C3-8D3B-E44D463BACD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A0898D-1B5A-44C3-8D3B-E44D463BACD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9854027D-8AFE-4D11-8E85-DA54C9C511D0}
+	EndGlobalSection
+EndGlobal
